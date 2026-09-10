@@ -1,27 +1,22 @@
 {
-  "id": "zavidovici",
-  "boundary": "zavidovici.geojson",
-  "settlements": "settlements.json",
-  "buffer": "zavidovici-buffer.geojson",
-  "town": { "lat": 44.4388706, "lon": 18.1458239 },
+  "id": "tesanj",
+  "boundary": "tesanj.geojson",
+  "settlements": "tesanj-settlements.json",
+  "buffer": "tesanj-buffer.geojson",
+  "town": {
+    "lat": 44.634508,
+    "lon": 17.9837317
+  },
   "timezone": "Europe/Sarajevo",
-  "language": "bs",
+  "language": "en",
   "names": {
     "en": {
-      "title": "FireWatch Zavidovići",
-      "area": "Grad Zavidovići",
-      "of": "of Zavidovići",
-      "in": "in Zavidovići",
-      "near": "near Zavidovići",
+      "title": "FireWatch Tešanj",
+      "area": "Općina Tešanj",
+      "of": "of Tešanj",
+      "in": "in Općina Tešanj",
+      "near": "near Tešanj",
       "outside": "outside municipality"
-    },
-    "bs": {
-      "title": "FireWatch Zavidovići",
-      "area": "Grad Zavidovići",
-      "of": "od Zavidovića",
-      "in": "u općini Zavidovići",
-      "near": "blizu Zavidovića",
-      "outside": "izvan općine"
     }
   }
 }
